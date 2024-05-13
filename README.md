@@ -34,6 +34,6 @@
 This README file provides an overview of the dashboard components and their visualizations for customer segmentation analysis using Tableau.
 
 
-  **Dashboard**
+  # Dashboard
 
 ![**Dashboard**](Dashboard.png)
